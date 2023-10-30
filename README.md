@@ -13,3 +13,7 @@ Dataset: Flicker30k
 | :---:   | :---:  | :---:  | :---:  | :---:  | :---: | :---:  | :---: | :---: |
 | ExpansionNet_v2 | 67.76 | 48.48 | 33.03 | 22.36 | 14.99 | 21.92 | 46.06 | 38.34 | 
 | LAVIS | 63.86 | 43.02 | 29.22 | 19.66 | 15.65 | 22.01 | 38.87 | 42.9 | 
+
+* Topic: Fine-Grained Image Captioning  
+* Developed an image captioning system using ExpansionNet with the Flicker30K dataset  
+* Assessed the effectiveness of visual embeddings. The system achieved an impressive BLEU‑1 score of 67.76  
